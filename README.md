@@ -6,12 +6,10 @@ I build and maintain database-driven applications, from internal enterprise work
 
 ## Selected engineering work
 
-| Project | What to look at |
-| --- | --- |
-| **[Zetruv Backend](https://github.com/karkandea/zetruv-backend)** | ASP.NET Core modular monolith, catalog and checkout, payment gateway abstraction, webhook reconciliation, and inventory reservations. [Architecture](https://github.com/karkandea/zetruv-backend/blob/main/docs/architecture.md). |
-| **[Backend Loyalty](https://github.com/karkandea/backend-loyalty)** | Layered .NET solution, JWT and member sessions, password migration, loyalty stamps, and transactional reward redemption. [Architecture](https://github.com/karkandea/backend-loyalty/blob/main/docs/architecture.md). |
-| **[Neverfade POS Backend](https://github.com/karkandea/backend-pos-neverfade)** | Multi-tenant POS API with PostgreSQL, role/outlet authorization, server-side transaction calculations, and xUnit API tests. [Architecture](https://github.com/karkandea/backend-pos-neverfade/blob/main/docs/architecture.md). |
-| **[Zetruv Frontend](https://github.com/karkandea/zetruv-frontend)** | React/Vite storefront and admin UI, API integration boundaries, and responsive interface development. |
+- **[Zetruv Backend](https://github.com/karkandea/zetruv-backend)** — Modular ASP.NET Core e-commerce API; catalog, checkout, payment webhook handling, and inventory reservations. [Architecture](https://github.com/karkandea/zetruv-backend/blob/main/docs/architecture.md).
+- **[Backend Loyalty](https://github.com/karkandea/backend-loyalty)** — Layered .NET solution; JWT/member authentication, migration, loyalty stamps, and atomic reward redemption. [Architecture](https://github.com/karkandea/backend-loyalty/blob/main/docs/architecture.md).
+- **[Neverfade POS Backend](https://github.com/karkandea/backend-pos-neverfade)** — Multi-tenant POS; PostgreSQL, role/outlet authorization, server-calculated transactions, and xUnit API tests. [Architecture](https://github.com/karkandea/backend-pos-neverfade/blob/main/docs/architecture.md).
+- **[Zetruv Frontend](https://github.com/karkandea/zetruv-frontend)** — React/Vite storefront and admin UI, API integration boundaries, and responsive components.
 
 These repositories include work in progress. Their READMEs distinguish implemented code, test evidence, and remaining limitations; they are not all claims of production-ready deployment.
 
